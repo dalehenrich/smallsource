@@ -6,6 +6,10 @@ To bootstrap into a Pharo1.3 image:
     load.
   ((Smalltalk at: #ConfigurationOfFileTree) project version: '1.0') load.
 
+For a git-based repository for FileTree see:
+
+  https://github.com/dalehenrich/filetree
+
 ============================================
 Smallsource is a smalltalk project about managing source code. Since Smalltalk is manages source in an image, it often is a problem to interact with source code management systems.
 
